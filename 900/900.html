@@ -27,15 +27,15 @@ function loadScript(path)
 }
 
 setTimeout(function(){
-eval.call(window, loadScript('/StandDia/900/900-host/netcat.js')
-+loadScript('/StandDia/900/900-host/webkit-9.00/exploit.js')
-+loadScript('/StandDia/900/900-host/webkit-9.00/malloc.js')
-+loadScript('/StandDia/900/900-host/webkit-9.00/rop/rop.js')
-+loadScript('/StandDia/900/900-host/common/syscalls.js')
-+loadScript('/StandDia/900/900-host/common/syscalls2.js')
-+loadScript('/StandDia/900/payload.js')
-+loadScript('/StandDia/900/900-host/common/relocator.js')
-+loadScript('/StandDia/900/frontend.js'));
+eval.call(window, loadScript('/900/900-host/netcat.js')
++loadScript('/900/900-host/webkit-9.00/exploit.js')
++loadScript('/900/900-host/webkit-9.00/malloc.js')
++loadScript('/900/900-host/webkit-9.00/rop/rop.js')
++loadScript('/900/900-host/common/syscalls.js')
++loadScript('/900/900-host/common/syscalls2.js')
++loadScript('/900/payload.js')
++loadScript('/900/900-host/common/relocator.js')
++loadScript('/900/frontend.js'));
 document.getElementById('q').innerHTML = 'Some other text';
 }, 50);
 </script>
