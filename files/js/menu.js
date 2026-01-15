@@ -59,14 +59,6 @@ var menuData = {
         "PL-Desc": "A modification of the playstation UI to help with<br>launching and developing homebrew..",
         "Icon": "&#xF08B;",
         "FW": ["9.xx","8.xx","7.xx"]
-      },
-      {
-        "PL-Title": "Activator PS4 ID Changer",
-        "href": "https://sleirsgoevy.github.io/ps4-web-activator/900.html",
-        "PL-Ver": "v1.0 - By sleirsgoevy",
-        "PL-Desc": "A modification of the playstation ID to save<br>",
-        "Icon": "&#xf0b1;",
-        "FW": ["9.00"]
       }
     ]
   },
