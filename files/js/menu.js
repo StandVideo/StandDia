@@ -84,7 +84,7 @@ var menuData = {
         "FW": ["9.xx","8.xx","7.xx"]
       },
       {
-        "PL-Title": "Sign NP Save & Remote PS4",
+        "PL-Title": "Sign NP Save/Remote",
         "PL-Bin": "pl_np-sign-ps4.bin",
         "PL-Ver": "v1.00",
         "PL-Desc": "Activate Save & Remote PS4.",
@@ -976,6 +976,7 @@ var menuData = {
   }
 
 }
+
 
 
 
