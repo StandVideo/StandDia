@@ -34,7 +34,7 @@ var menuData = {
         "PL-Ver": "v1.00",
         "PL-Desc": "Activate Save & Remote PS4.",
         "Icon": "&#xf0b1;",
-        "FW": ["x.xx"]
+        "FW": ["9.xx","8.xx","7.xx"]
       },
       {
         "PL-Title": "FTP Server",
@@ -976,6 +976,7 @@ var menuData = {
   }
 
 }
+
 
 
 
