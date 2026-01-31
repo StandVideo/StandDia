@@ -29,14 +29,6 @@ var menuData = {
       //   "FW": ["9.xx","8.xx","7.xx"]
       // },
       {
-        "PL-Title": "sign np save PS4",
-        "PL-Bin": "pl_np_fake_signin_ps4.bin",
-        "PL-Ver": "v1.00",
-        "PL-Desc": "Activate Save & Remote PS4.",
-        "Icon": "&#xf0b1;",
-        "FW": ["9.xx","8.xx","7.xx"]
-      },
-      {
         "PL-Title": "FTP Server",
         "PL-Bin": "pl_FTP.bin",
         "PL-Ver": "v1.08b -By hippie68 / Port By Al Azif",
@@ -89,6 +81,14 @@ var menuData = {
         "PL-Ver": "v1.0.0 - By RandQalan /Payload By Nazky",
         "PL-Desc": "PSFree/Lapse Fix is a payload that uses a trick to fix the game's running problem. This payload installs a plugin on your console. Make sure to run the plugin on your device using GoldHEN.",
         "Icon": "&#xF0AD;",
+        "FW": ["9.xx","8.xx","7.xx"]
+      },
+      {
+        "PL-Title": "sign np save PS4",
+        "PL-Bin": "pl_np_fake_signin_ps4.bin",
+        "PL-Ver": "v1.00",
+        "PL-Desc": "Activate Save & Remote PS4.",
+        "Icon": "&#xf0b1;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
       {
@@ -976,6 +976,7 @@ var menuData = {
   }
 
 }
+
 
 
 
