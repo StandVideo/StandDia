@@ -1,6 +1,6 @@
 CACHE MANIFEST
 # StandDia For PS4 7.00-9.60
-# 11/01/2025-13:08
+# 31/01/2026-20:50
 
 index.html
 files/bundle.js
@@ -143,8 +143,8 @@ files/pl_fan-speed-65.bin
 files/pl_fan-speed-70.bin
 files/pl_fan-speed-75.bin
 files/pl_fan-speed-80.bin
-files/pl_np-fake-signin-ps4.bin
-files/pl_np-fake-signin-ps5.bin
+files/pl_np-sign-ps4.bin
+files/pl_np-sign-ps5.bin
 files/style.css
 files/img/BG.jpg
 files/img/ftp.svg
@@ -161,6 +161,7 @@ NETWORK:
 
 SETTINGS:
 prefer-online:
+
 
 
 
