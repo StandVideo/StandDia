@@ -85,7 +85,7 @@ var menuData = {
       },
       {
         "PL-Title": "Sign NP Save & Remote PS4",
-        "PL-Bin": "pl_np-fake-signin-ps4.bin",
+        "PL-Bin": "pl_np-fake-sign-ps4.bin",
         "PL-Ver": "v1.00",
         "PL-Desc": "Activate Save & Remote PS4.",
         "Icon": "&#xf0b1;",
@@ -976,6 +976,7 @@ var menuData = {
   }
 
 }
+
 
 
 
