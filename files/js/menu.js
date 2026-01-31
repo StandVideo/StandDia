@@ -101,7 +101,7 @@ var menuData = {
       },
       {
         "PL-Title": "sflash Dumper",
-        "PL-Bin": "pl_ps4-sflash-dumper.bin",
+        "PL-Bin": "pl_ps4-sflash0-dumper.bin",
         "PL-Ver": "v1.0 - Original Version By Andryshik345",
         "PL-Desc": "Dump a copy of your sflash to your USB drive.<br>",
         "Icon": "&#xf828;",
@@ -976,6 +976,7 @@ var menuData = {
   }
 
 }
+
 
 
 
