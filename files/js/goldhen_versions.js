@@ -8,7 +8,7 @@ var goldhenVersions = [
     "selected": true
   },
   {
-    "value": "np-sign-ps4",
+    "value": "v2.4b18.8",
     "text": "v2.4b18.8 - 28 Jav 2026 *Last Version*",
     "fw": ["9.xx","8.xx","7.xx"]
   },
@@ -179,5 +179,6 @@ var goldhenVersions = [
   }
 
 ];
+
 
 
