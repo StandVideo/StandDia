@@ -8,8 +8,13 @@ var goldhenVersions = [
     "selected": true
   },
   {
+    "value": "v2.4b18.9",
+    "text": "v2.4b18.9 - 12 Fev 2026 *Last Version*",
+    "fw": ["9.xx","8.xx","7.xx"]
+  },
+  {
     "value": "v2.4b18.8",
-    "text": "v2.4b18.8 - 28 Jav 2026 *Last Version*",
+    "text": "v2.4b18.8 - 28 Jav 2026",
     "fw": ["9.xx","8.xx","7.xx"]
   },
   {
@@ -179,6 +184,7 @@ var goldhenVersions = [
   }
 
 ];
+
 
 
 
