@@ -9,3 +9,13 @@ https://standvideo.github.io/StandDia/index.html
 
 
 > **Important:** You **must** type `/index.html` at the end of the URL, otherwise the exploit will not run!
+
+StandDia-Lapse - PS4 Jailbreak Host (FW 11.00 to 13.00)
+
+Just open this link in your PS4 browser (make sure to include /index.html at the end):
+
+Main Link (Recommended):
+
+https://standvideo.github.io/StandDia/1300/index.html
+
+Important: You must type /index.html at the end of the URL, otherwise the exploit will not run!
